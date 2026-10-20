@@ -1,0 +1,11 @@
+# macOS system files
+._*
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+
+# Files that might appear on external disks / network shares
+.Spotlight-V100
+.Trashes
