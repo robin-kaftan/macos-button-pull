@@ -20,6 +20,8 @@ data-tug-diag="1.1" -- This one is the maximum stretch scale when multiple axise
 
 data-tug-pull="0.5" -- This one is how eagerly the stretch will follow the mouse. Lower values means slower moving, you have to drag your mouse more.
 
+Some other modifiers, like the spring zeta, can be changed in the js file. Right now, if you link it from my GitHub Pages website, you will get the most accurate recreation of MacOS's springs. Further modification can be made by saving it locally.
+
 
 ### Can I use it on my website?
 Yes! This is completely open source, you can put this on your website! Credits are optional, but I would greatly respect whoever does put them.
