@@ -5,7 +5,7 @@
     const DEFAULTS = { move: 12, scale: 1.5, diag: 1.1, pull: 0.5 };
 
     const DRAG_SPRING    = { k: 700, zeta: 0.95 };
-    const RELEASE_SPRING = { k: 320, zeta: 0.32 };
+    const RELEASE_SPRING = { k: 320, zeta: 0.57 };
 
     const css = document.createElement("style");
     css.textContent = `${SELECTOR} { touch-action: none; }`;
