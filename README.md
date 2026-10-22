@@ -27,6 +27,6 @@ Yes! This is completely open source, you can put this on your website! Credits a
 ### How can I use this on my website?
 Simply paste this line into your `<head>`:
 
-`<script defer src="https://robin-kaftan.github.io/macos-button-pull/"></script>`
+`<script defer src="https://robin-kaftan.github.io/macos-button-pull/script.js"></script>`
 
 Then, add those data- values from above to your desired elements, and you're done!
